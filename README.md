@@ -10,7 +10,7 @@ Service Manual Team
 + [NHSUK Service Manual](https://github.com/nhsuk/nhsuk-service-manual)
 + [NHSUK Prototype Kit](https://github.com/nhsuk/nhsuk-prototype-kit)
 + [NHSUK Frontend Library](https://github.com/nhsuk/nhsuk-frontend)
-+ [Wagtail Frontend Plugin](https://github.com/nhsuk/wagtail-nhsuk-frontend)
++ [NHSUK Wagtail Frontend Plugin](https://github.com/nhsuk/wagtail-nhsuk-frontend)
 
 ## 🧠 Currently Learning
 
