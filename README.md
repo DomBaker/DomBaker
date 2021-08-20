@@ -1,6 +1,10 @@
 ## 👨🏼‍💻 Current Work
 
-Currently working for [NHS Digital](https://digital.nhs.uk/), under NHSUK who are responsible for the [NHS website](https://www.nhs.uk/). working for the Service Manual Team.
+Currently working for [NHS Digital](https://digital.nhs.uk/), under NHSUK who are responsible for the [NHS website](https://www.nhs.uk/).
+
+### 🔭 Team
+
+Service Manual Team
 
 ### 🧑🏼‍🔧 Projects
 + [NHSUK Service Manual](https://github.com/nhsuk/nhsuk-service-manual)
