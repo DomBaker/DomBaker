@@ -4,7 +4,7 @@ Currently working for [NHS Digital](https://digital.nhs.uk/), under NHSUK who ar
 
 ### 🔭 Team
 
-Service Manual Team
+[Service Manual Team](https://service-manual.nhs.uk/service-manual-team)
 
 ### 🧑🏼‍🔧 Projects
 + [NHSUK Service Manual](https://github.com/nhsuk/nhsuk-service-manual)
