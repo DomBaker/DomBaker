@@ -14,7 +14,7 @@ Service Manual Team
 
 ## 🧠 Currently Learning
 
-+ NodeJs
++ NodeJS
 + Wagtail CMS
 
 ## 💬 Support
