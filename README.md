@@ -19,7 +19,7 @@ Service Manual Team
 
 ## 💬 Support
 
-If you require my support with any of the NHSUK projects, contact me on the Service manual [Slack](https://www.nhs-service-manual.slack.com) instance or raise an issue in Github under the specific project.
+If you require my support with any of the NHSUK projects, contact me on the Service manual [Slack](https://www.slack.com) instance or raise an issue in Github under the specific project.
 
 ## 🚀 GitHub Activity
 
