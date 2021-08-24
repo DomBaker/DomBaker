@@ -19,7 +19,7 @@ Currently working for [NHS Digital](https://digital.nhs.uk/), under NHSUK who ar
 
 ## 💬 Support
 
-If you require my support with any of the NHSUK projects, contact me on the Service manual [Slack](https://www.slack.com) instance or raise an issue in Github under the specific project.
+If you require my support with any of the NHSUK projects, contact me on the Service manual [Slack](https://join.slack.com/t/nhs-service-manual/shared_invite/zt-6o80p0t0-mER8kMlWmbAaKaXf4Q1PBw) instance or raise an issue in Github under the specific project.
 
 ## 🚀 GitHub Activity
 
