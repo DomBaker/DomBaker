@@ -27,7 +27,7 @@ If you require my support with any of the NHSUK projects, contact me on the Serv
 
 ## ℹ️ Fun fact
 
-The mathematical problem of [img[https://latex.codecogs.com/svg.image?\left ( 3x + 1\right )]] is unsolvable.
+The mathematical problem of $$\begin{array}(3x + 1)\end{array}$$ is unsolvable.
 
 <!--
 **DomBaker/DomBaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
