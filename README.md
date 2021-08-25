@@ -25,6 +25,10 @@ If you require my support with any of the NHSUK projects, contact me on the Serv
 
 ![My Github stats](https://github-readme-stats.vercel.app/api?username=DomBaker&show_icons=true&theme=radical)
 
+## ℹ️ Fun fact
+
+The mathematical problem of <mrow>3x + 1</mrow> is unsolvable.
+
 <!--
 **DomBaker/DomBaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
