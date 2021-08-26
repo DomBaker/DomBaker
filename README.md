@@ -1,6 +1,6 @@
-## 👨🏼‍💻 Current Work
+## 👨🏼‍💻 Current Company
 
-Currently working for [NHS Digital](https://digital.nhs.uk/), under NHSUK who are responsible for the [NHS website](https://www.nhs.uk/).
+[NHS Digital](https://digital.nhs.uk/)
 
 ### 🔭 Team
 
