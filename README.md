@@ -16,6 +16,7 @@
 
 + NodeJS
 + Wagtail CMS
++ Python
 
 ## 💬 Support
 
