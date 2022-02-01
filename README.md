@@ -4,23 +4,19 @@
 
 ### 🔭 Team
 
-[Service Manual Team](https://service-manual.nhs.uk/service-manual-team)
+IA TEAM
 
 ### 🧑🏼‍🔧 Projects
-+ [NHSUK Service Manual](https://github.com/nhsuk/nhsuk-service-manual)
-+ [NHSUK Prototype Kit](https://github.com/nhsuk/nhsuk-prototype-kit)
 + [NHSUK Frontend Library](https://github.com/nhsuk/nhsuk-frontend)
 + [NHSUK Wagtail Frontend Plugin](https://github.com/nhsuk/wagtail-nhsuk-frontend)
++ [NHSUK](https://nhs.uk)
++ 
 
 ## 🧠 Currently Learning
 
 + NodeJS
 + Wagtail CMS
 + Python
-
-## 💬 Support
-
-If you require my support with any of the NHSUK projects, contact me on the Service manual [Slack](https://join.slack.com/t/nhs-service-manual/shared_invite/zt-6o80p0t0-mER8kMlWmbAaKaXf4Q1PBw) instance or raise an issue in Github under the specific project.
 
 ## 🚀 GitHub Activity
 
