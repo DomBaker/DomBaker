@@ -10,7 +10,6 @@ IA TEAM
 + [NHSUK Frontend Library](https://github.com/nhsuk/nhsuk-frontend)
 + [NHSUK Wagtail Frontend Plugin](https://github.com/nhsuk/wagtail-nhsuk-frontend)
 + [NHSUK](https://nhs.uk)
-+ 
 
 ## 🧠 Currently Learning
 
