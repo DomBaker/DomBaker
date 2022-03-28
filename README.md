@@ -19,6 +19,7 @@ IA TEAM
 
 ## 🚀 GitHub Activity
 
+![My languages](https://github.com/username/github-stats/blob/master/generated/languages.svg)
 ![My Github stats](https://github-readme-stats.vercel.app/api?username=DomBaker&show_icons=true&theme=radical)
 
 ## ℹ️ Fun fact
