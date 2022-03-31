@@ -1,3 +1,7 @@
+## ABOUTME.md 
+Software engineer working in the public sector on public facing systems and services.
+- 😄 Pronouns: he/his/him
+
 ## 👨🏼‍💻 Current Company
 
 [NHS Digital](https://digital.nhs.uk/) [NHS UK](https://nhs.uk)
@@ -11,6 +15,7 @@ IA TEAM
 + [NHSUK](https://nhs.uk)
 
 ### 🚀 Author / Owner 
+
 + [NHSUK Wagtail Frontend Plugin](https://github.com/nhsuk/wagtail-nhsuk-frontend)
 
 ## 🧠 Currently Learning
@@ -18,6 +23,9 @@ IA TEAM
 + NodeJS
 + Wagtail CMS
 + Python
++ Flask
++ React
++ React native
 
 ## 🚀 GitHub Activity
 
@@ -26,6 +34,7 @@ IA TEAM
 ## ℹ️ Fun fact
 
 The mathematical problem of (3x + 1) is unsolvable.
+
 
 <!--
 **DomBaker/DomBaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
