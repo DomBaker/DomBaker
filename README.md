@@ -21,7 +21,7 @@ IA TEAM
 ## 🧠 Currently Learning
 
 + NodeJS
-+ Wagtail CMS
++ Django / Wagtail
 + Python
 + Flask
 + React
