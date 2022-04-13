@@ -12,7 +12,7 @@ IA TEAM
 
 ### 🧑🏼‍🔧 Team Projects
 + [NHSUK Frontend Library](https://github.com/nhsuk/nhsuk-frontend)
-+ [NHSUK](https://nhs.uk)
++ [NHS.UK](https://nhs.uk)
 
 ### 🧑🏼‍🔧 Previous Projects
 + [NHSUK Prototype Kit](https://github.com/nhsuk/nhsuk-prototype-kit)
