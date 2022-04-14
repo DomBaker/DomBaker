@@ -36,6 +36,8 @@ For any support queries around service manual please visit [Service Manual Publi
 ## 🚀 GitHub Activity
 
 ![My Github stats](https://github-readme-stats.vercel.app/api?username=DomBaker&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DomBaker&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## ℹ️ Fun fact
 
