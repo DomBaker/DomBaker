@@ -8,7 +8,7 @@ Software engineer working in the public sector on public facing systems and serv
 
 ### 🔭 Team
 
-IA TEAM
+The Navigation Team 🧨
 
 ### 🧑🏼‍🔧 Team Projects
 + [NHSUK Frontend Library](https://github.com/nhsuk/nhsuk-frontend)
