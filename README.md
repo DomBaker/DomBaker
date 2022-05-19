@@ -23,6 +23,7 @@ For any support queries around service manual please visit [Service Manual Publi
 ### 🚀 Author / Owner 
 
 + [NHSUK Wagtail Frontend Plugin](https://github.com/nhsuk/wagtail-nhsuk-frontend)
++ [NHSUK User Feedback Store](https://github.com/nhsuk/user-feedback-store)
 
 ## 🧠 Currently Learning
 
