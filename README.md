@@ -23,14 +23,12 @@ For any support queries around service manual please visit [Service Manual Publi
 + [NHSUK Wagtail Frontend Plugin](https://github.com/nhsuk/wagtail-nhsuk-frontend)
 + [NHSUK User Feedback Store](https://github.com/nhsuk/user-feedback-store)
 
-## 🧠 Currently Learning
+## Stack
 
-+ NodeJS
-+ Django / Wagtail
++ AWS
++ Terraform
++ K8s
 + Python
-+ Flask
-+ React
-+ React native
 
 ## 🚀 GitHub Activity
 
