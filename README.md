@@ -4,11 +4,11 @@
 
 ## 👨🏼‍💻 Current Company
 
-[NHS Digital](https://digital.nhs.uk/)
+[NHS England](https://digital.nhs.uk/)
 
 ### 🔭 Team
 
-DoS Product Team
+DoS Live Services & product Family
 
 ### 🧑🏼‍🔧 Previous Projects
 + [NHSUK Prototype Kit](https://github.com/nhsuk/nhsuk-prototype-kit)
@@ -16,7 +16,7 @@ DoS Product Team
 + [NHSUK Frontend Library](https://github.com/nhsuk/nhsuk-frontend)
 + [NHS.UK](https://nhs.uk)
 
-For any support queries around service manual please visit [Service Manual Public Slack](https://join.slack.com/t/nhs-service-manual/shared_invite/zt-6o80p0t0-mER8kMlWmbAaKaXf4Q1PBw)
+For any support queries about the service manual, please visit [Service Manual Public Slack](https://join.slack.com/t/nhs-service-manual/shared_invite/zt-6o80p0t0-mER8kMlWmbAaKaXf4Q1PBw)
 
 ### 🚀 Author / Owner 
 
@@ -29,6 +29,7 @@ For any support queries around service manual please visit [Service Manual Publi
 + Terraform
 + K8s
 + Python
++ PHP
 
 ## 🚀 GitHub Activity
 
