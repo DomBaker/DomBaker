@@ -18,7 +18,7 @@ DoS Live Services & Product Family
 
 For any support queries about the service manual, please visit [Service Manual Public Slack](https://join.slack.com/t/nhs-service-manual/shared_invite/zt-6o80p0t0-mER8kMlWmbAaKaXf4Q1PBw)
 
-### 🚀 Author / Owner 
+### 🚀 Previous Author / Owner Projects
 
 + [NHSUK Wagtail Frontend Plugin](https://github.com/nhsuk/wagtail-nhsuk-frontend)
 + [NHSUK User Feedback Store](https://github.com/nhsuk/user-feedback-store)
