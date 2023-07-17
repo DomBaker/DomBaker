@@ -2,13 +2,13 @@
 
 - 😄 Pronouns: he/his/him
 
-## 👨🏼‍💻 Current Company
+## 👨🏼‍💻 Current Organisation
 
 [NHS England](https://digital.nhs.uk/)
 
 ### 🔭 Team
 
-DoS Live Services & product Family
+DoS Live Services & Product Family
 
 ### 🧑🏼‍🔧 Previous Projects
 + [NHSUK Prototype Kit](https://github.com/nhsuk/nhsuk-prototype-kit)
