@@ -6,6 +6,10 @@
 
 [NHS England](https://digital.nhs.uk/)
 
+## 👨🏼‍💻 Current Projects
+
+[DoS Road Distance](https://github.com/nhsd-exeter/dos-road-distance)
+
 ### 🔭 Team
 
 DoS Live Services & Product Family
@@ -30,6 +34,7 @@ For any support queries about the service manual, please visit [Service Manual P
 + K8s
 + Python
 + PHP
++ Jenkins
 
 ## 🚀 GitHub Activity
 
