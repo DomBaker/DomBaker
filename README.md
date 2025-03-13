@@ -7,18 +7,18 @@
 [NHS England](https://digital.nhs.uk/)
 
 ## 👨🏼‍💻 Current Projects
-
-[DoS Road Distance](https://github.com/nhsd-exeter/dos-road-distance)
++ [FTRS Directory of Service](https://github.com/NHSDigital/ftrs-directory-of-services)
 
 ### 🔭 Team
 
-DoS Live Services & Product Family
+FTRS Integrated Search Team
 
 ### 🧑🏼‍🔧 Previous Projects
 + [NHSUK Prototype Kit](https://github.com/nhsuk/nhsuk-prototype-kit)
 + [NHSUK Service Manual](https://github.com/nhsuk/nhsuk-service-manual)
 + [NHSUK Frontend Library](https://github.com/nhsuk/nhsuk-frontend)
 + [NHS.UK](https://nhs.uk)
++ [DoS Road Distance](https://github.com/nhsd-exeter/dos-road-distance)
 
 For any support queries about the service manual, please visit [Service Manual Public Slack](https://join.slack.com/t/nhs-service-manual/shared_invite/zt-6o80p0t0-mER8kMlWmbAaKaXf4Q1PBw)
 
@@ -29,12 +29,10 @@ For any support queries about the service manual, please visit [Service Manual P
 
 ## Stack
 
-+ AWS
++ AWS suite 
 + Terraform
-+ K8s
 + Python
-+ PHP
-+ Jenkins
++ Github Workflows
 
 ## 🚀 GitHub Activity
 
