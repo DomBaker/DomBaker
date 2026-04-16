@@ -11,7 +11,7 @@
 
 ### 🔭 Team
 
-FTRS Integrated Search Team
+FTRS Integrated Search Team - New Endpoint Squad
 
 ### 🧑🏼‍🔧 Previous Projects
 + [NHSUK Prototype Kit](https://github.com/nhsuk/nhsuk-prototype-kit)
