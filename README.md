@@ -27,6 +27,9 @@ For any support queries about the service manual, please visit [Service Manual P
 + [NHSUK Wagtail Frontend Plugin](https://github.com/nhsuk/wagtail-nhsuk-frontend)
 + [NHSUK User Feedback Store](https://github.com/nhsuk/user-feedback-store)
 
+### 🚀 Personal / Third-party proje ts
+[The Nail Club](https://thenailclub.co.uk/)
+
 ## Stack
 
 + AWS suite 
